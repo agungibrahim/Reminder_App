@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reminder_App</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="str_daftar_reminder">Daftar Reminder</string>
+    <string name="str_title">Title</string>
+    <string name="str_description">Description</string>
+    <string name="str_tanggal_waktu">Tanggal Waktu</string>
+    <string name="str_submit">Submit</string>
+    <string name="str_tambah_reminder">Tambah Reminder</string>
+</resources>
